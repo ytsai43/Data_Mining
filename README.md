@@ -6,6 +6,8 @@ Data preprocessing:
 2. Oversampling: SMOTE ; Downsampling
 3. Encode labels with value between 0 and n_classes-1
 
+![alt text](https://github.com/ytsai43/Data_Mining/blob/master/skew_data.JPG)
+
 Classification model:
 1. Decision tree
 2. SVM
