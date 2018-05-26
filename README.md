@@ -14,4 +14,3 @@ Classification model:
 1. Decision tree
 2. SVM
 3. Random Forest
-
