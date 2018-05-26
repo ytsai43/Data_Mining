@@ -7,6 +7,8 @@ Data preprocessing:
 3. Encode labels with value between 0 and n_classes-1
 
 ![alt text](https://github.com/ytsai43/Data_Mining/blob/master/skew_data.JPG)
+![alt text](https://github.com/ytsai43/Data_Mining/blob/master/SMOTE_data.JPG)
+![alt text](https://github.com/ytsai43/Data_Mining/blob/master/undersampled_data.JPG)
 
 Classification model:
 1. Decision tree
